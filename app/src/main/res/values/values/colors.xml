@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#2E7D32</color>
+    <color name="colorAccent">#272F68</color>
+    <color name="red_color">#FF4081</color>
+    <color name="store_details_color">#586f7c</color>
+    <color name="user_fav_badge_color">#C62828</color>
+    <color name="sponser_bk_color">#fb6107</color>
+    <color name="gray_300">#E0E0E0</color>
+</resources>

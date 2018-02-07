@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="language_items">
+        <item>@string/english</item>
+        <item>@string/arabic</item>
+    </array>
+    <array name="order_status">
+        <item>@string/on_my_way</item>
+        <item>@string/delivered</item>
+    </array>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+</resources>
